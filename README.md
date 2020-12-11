@@ -1,7 +1,6 @@
 # Hello  👋 , I'm Hendriyan!
 
  <summary><strong>What i am learning on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
     - 🌱 I’m currently learning PHP and JavaScript </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
