@@ -1,12 +1,4 @@
 # Hello  👋 , I'm Hendriyan!
-
-<!--
-**hendriyan19/hendriyan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
- 
-
-# Stats:
 <details>
  <summary><strong>What i am learning on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
@@ -18,4 +10,11 @@
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
+<!--
+**hendriyan19/hendriyan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+ 
+
+
 
