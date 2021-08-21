@@ -2,10 +2,8 @@
 
  <summary><strong>What i am learning on these days</strong></summary>
     - 🌱 I’m currently learning PHP and JavaScript </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:hendriyan191919@gmail.com>Email me!</a>  </br>
+    - 📫 How to reach me: hendriyan191919@gmail.com>Email me!</br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 
