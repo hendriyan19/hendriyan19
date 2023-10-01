@@ -1,7 +1,7 @@
 # Hello  👋 , I'm Hendriyan!
 
  <summary><strong>What i am learning on these days</strong></summary>
-    - 🌱 I’m currently learning PHP and JavaScript </br>
+    - 🌱 I’m currently learning ASP .NET, C#, JavaScript </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: hendriyan191919@gmail.com>Email me!</br>
     - 😄 Pronouns: He/Him </br>
